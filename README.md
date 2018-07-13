@@ -1,5 +1,5 @@
 # MiFirstRepository
-Edit from GitHub
-Editado desde mi PC localmente.
+Edit from GitHub\n
+Editado desde mi PC localmente.\n
 ¿Pueden ver los cambios?
-[ ]Si  [ ]No
+- [ ]Si  - [ ]No
